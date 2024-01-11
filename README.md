@@ -1,11 +1,12 @@
 <div align=center>
-<img src="https://github.com/BestModules-Libraries/img/blob/main/BM22S3421-1_V1.0.png" width="240" height="240"> 
+<img src="https://github.com/BestModules-Libraries/img/blob/main/BM22S3421-1_BMA34M421_V1.0.png" width="240" height="240"> 
 </div> 
 
 BM22S3421-1
 ===========================================================
 
-The BM22S3421-1 is a digital alcohol sensor launched by Beichuang and uses UART communication method. This document describes the Arduino Lib functions of BM22S3421-1 and how to install the Arduino Lib. The example uses the BMA34M421 module to demonstrate the ability to read information about the concentration of alcohol gases
+The Best Modules BM22S3421-1 is an alcohol digital sensor, which uses the UART communication mode. This document provides the description of the BM22S3421-1 Arduino Lib functions and how to install the Arduino Lib. The example uses the BMA34M421 module to demonstrate the function of reading alcohol gas concentration information.
+
 This library can be installed via the Arduino Library manager. Search for **BM22S3421-1**. 
 
 Repository Contents
