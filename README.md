@@ -20,7 +20,7 @@ Repository Contents
 Documentation 
 -------------------
 
-* **[BM22S3421-1 Arduino Library V1.0.1 Description v100](https://www.bestmodulescorp.com/bmk22m131.html#tab-product2)** - Arduino Library Description.
+* **[BM22S3421-1 Arduino Library V1.0.1 Description v100](https://www.bestmodulescorp.com/bm22s3421-1.html#tab-product2)** - Arduino Library Description.
 
 Version History  
 -------------------
